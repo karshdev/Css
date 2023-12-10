@@ -230,7 +230,6 @@ a {
   justify-content: center;
   transition: all 0.2s;
   position: relative;
-  overflow: hidden;
 }
 .upload__container:hover {
   background-color: rgba(255, 255, 255, 0.06);
